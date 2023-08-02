@@ -1,5 +1,6 @@
 # shef_hpc
 This document includes some basic guidance for the use of hpc in the University of Sheffield.
+https://docs.hpc.shef.ac.uk/en/latest/hpc/index.html
 
 ## 1. install anaconda
 a) Using the following command to download miniconda
